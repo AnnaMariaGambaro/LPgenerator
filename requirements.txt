@@ -1,5 +1,5 @@
 numpy
-random
+random2
 matplotlib
 scipy
 streamlit
